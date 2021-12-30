@@ -1,0 +1,52 @@
+{
+     "prefix": "!",
+     "namalu" : "IRFAN",
+     "nomerlu": "6283110372378",
+     "namabot": "EXTREAM BOTZ",
+     "nomerbot": "6283110372378",
+     "gender" : "FEMALE",
+     "copyright" : "Extream",
+     "Shopee" : "089529081159",
+     "Gopay" : "089529081159",
+     "Dana" : "089529081159",
+     "Ovo" : "089529081159",
+     "namaDocument": "ʜᴇᴋɪʀᴀ ɴᴏ ᴛᴇɴ",
+     "joinGcExtream": true,
+     "Anticall": true,
+     "multi": true,
+     "onepref" : false,
+     "publik": true,
+     "forwarding": false,
+     "antitroli" : false,
+     "autovn" : false,
+     "autosticker" : false,
+     "autorespon" : false,
+     "autotyping" : false,
+     "autoread" : true,
+     "katalogMenu": false,
+     "troliMenu": false,
+     "lokasiMenu": true,
+     "documentMenu": false,
+     "autoblockcmd" : true,
+     "autoWelcome": false,
+     "welcomeType1": false,
+     "welcomeType2": false,
+     "welcomeType3": true,
+     "chatBot" : false,
+     "teksChat" : "Gada menu",
+     "totalForward" : 1000000,
+     "explain": false,
+     "gamewaktu": 60,
+	 "limitCount": 30,
+	 "gcount": {
+		"prem": 30,
+		"user": 20
+},
+    
+     "zeks": "officialdittaz", 
+     "zenzkey": "officialdittaz",
+     "xteam": "170342e43e147afa"
+}
+
+   
+   
